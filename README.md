@@ -71,6 +71,8 @@ python3 bot.py
 ## Botfather Commands
 ```
 start - Bot Alive Cheking
+settings - To set Preferance
+autorename - To set Format
 view_thumb - View Thumbnail
 del_thumb - Delete Thumbnail
 set_caption - Set A Custom Caption
@@ -83,7 +85,11 @@ see_prefix - To See Your Prefix
 see_suffix - To See Your Suffix
 del_prefix - Delete Your Prefix
 del_suffix - Delete Your Suffix
-restart - To Rrstart The Bot (Admin Only)
+upgrade - To Premium
+myplan - To check current plan validiy
+addpremium - To add premium user (Admin Only)
+removepremium - To remove user (Admin Only)
+restart - To Restart The Bot (Admin Only)
 status - Check Bot Status (Admin Only)
 broadcast - Send Message To All Users (Admin Only)
 ```
@@ -108,12 +114,12 @@ broadcast - Send Message To All Users (Admin Only)
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)</b>
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Aniflix](https://t.me/Aniflix_Official)</b>
 
-- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
+- ᴄʀᴇᴅɪᴛ <b>[Team Aniflix](https://t.me/AniflixAnkit)  ➻  [ᴏᴡɴᴇʀ](https://t.me/AniflixAnkit) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
 - ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
-- ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  
-- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @codeflix_bots Community @Otakflix_Network </b>
+- ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Aniflix_Official
+- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @Aniflix_Official @MisterBrutal </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
