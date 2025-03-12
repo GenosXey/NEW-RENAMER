@@ -7,16 +7,16 @@ from os import environ
 API = environ.get("API", "81aa9734c37474fbc63b3dcb719eaf14ecd8f27f") # shortlink api
 URL = environ.get("URL", "ziplinker.net") # shortlink domain without https://
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t me/MisterBrutal") # how to open link 
-BOT_USERNAME = environ.get("BOT_USERNAME", "FastFileRenamer4GBot") # bot username without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "Pro_FileRenamer4GbBot") # bot username without @
 VERIFY = True  # Convert string to boolean
 
 id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID = os.environ.get("API_ID", "25198711")  # ⚠️ Required
-    API_HASH = os.environ.get("API_HASH", "2a99a1375e26295626c04b4606f72752")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7433809622:AAGocOZUr6elPImHzcCOBpCFZaF5hj3HdCE")  # ⚠️ Required
+    API_ID = os.environ.get("API_ID", "24817837")  # ⚠️ Required
+    API_HASH = os.environ.get("API_HASH", "acd9f0cc6beb08ce59383cf250052686")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7890972975:AAF1tNs7gXWbXiu9vwSUlE8xJuYH7-oYVb8")  # ⚠️ Required
     
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "")
@@ -31,10 +31,10 @@ class Config(object):
     BOT_UPTIME = time.time()
     START_PIC = os.environ.get("START_PIC", "https://graph.org/file/9c910cbc74144b3b2efce.jpg")
     ADMIN = [int(admin) if id_pattern.search(
-        admin) else admin for admin in os.environ.get('ADMIN', '1740287480').split()]  # ⚠️ Required
+        admin) else admin for admin in os.environ.get('ADMIN', '7428552084').split()]  # ⚠️ Required
     
-    FORCE_SUB = os.environ.get("FORCE_SUB", "aniflixClou") # ⚠️ Required Username without @
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002219568827"))  # ⚠️ Required
+    FORCE_SUB = os.environ.get("FORCE_SUB", "BotZFlix") # ⚠️ Required Username without @
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002376378205"))  # ⚠️ Required
     FLOOD = int(os.environ.get("FLOOD", '105'))
     BANNED_USERS = set(int(x) for x in os.environ.get(
         "BANNED_USERS", "1234567890").split())
