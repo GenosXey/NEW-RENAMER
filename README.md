@@ -8,6 +8,8 @@
 
 https://chilly-fanny-imbd-49d116e8.koyeb.app/
 
+https://chilly-fanny-imbd-49d116e8.koyeb.app/
+
 <details>
 <summary><h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
