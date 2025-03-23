@@ -34,7 +34,7 @@ class Config(object):
         admin) else admin for admin in os.environ.get('ADMIN', '7428552084').split()]  # ⚠️ Required
     
     FORCE_SUB = os.environ.get("FORCE_SUB", "BotZFlix") # ⚠️ Required Username without @
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002376378205"))  # ⚠️ Required
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002647818964"))  # ⚠️ Required
     FLOOD = int(os.environ.get("FLOOD", '105'))
     BANNED_USERS = set(int(x) for x in os.environ.get(
         "BANNED_USERS", "1234567890").split())
