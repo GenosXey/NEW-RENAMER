@@ -22,4 +22,4 @@ async def get_rename_preference(user_id):
             return "manual"
     except Exception as e:
         logger.error(f"Error fetching renaming preference for user {user_id}: {e}")
-        return "manual"  # Default to manual if there's an error
+        return "auto"  # Default to manual if there's an error
