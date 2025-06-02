@@ -24,7 +24,7 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
     # database config
-    DB_URL = environ.get("DB_URL", "mongodb+srv://Aniflix:Lipun123@aniflix.q2wina5.mongodb.net/?retryWrites=true&w=majority&appName=Aniflix")
+    DB_URL = environ.get("DB_URL", "mongodb+srv://altof2:123Bonjoure@cluster0.s1suq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     DB_NAME = environ.get("DB_NAME", "Aniflix")  # ⚠️ Required
 
     # other configs
